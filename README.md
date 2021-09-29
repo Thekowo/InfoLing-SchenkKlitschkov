@@ -24,5 +24,5 @@ Es ist möglich, dass es einen Error geworfen wird, wenn zum ersten Mal die Hays
 ![problem_haystack_import](https://github.com/Thekowo/InfoLing-SchenkKlitschkov/blob/main/problem_haystack_import.PNG)
 ### Nicht importiertes Zip File 
 
-Das FileNotFound Error welcher geworfen wird (wie im Screenshot), deutet darauf hin, dass noch kein zip-File mit den entsprechenden Daten importiert wurde. Das lässt mit dem Import des in github mitaufgeführten txt-files.zip per z.B  Drag and Drop und erneute ausführen des Codes beheben
+Das FileNotFound Error welcher geworfen wird (wie im Screenshot), deutet darauf hin, dass noch kein zip-File mit den entsprechenden Daten importiert wurde. Das lässt mit dem Import des im Repository aufgeführten **txt-files.zip** per z.B  Drag and Drop und erneutem Ausführen des Codes beheben.
 ![zip_file_problem](https://github.com/Thekowo/InfoLing-SchenkKlitschkov/blob/main/zip_file_problem.PNG)
